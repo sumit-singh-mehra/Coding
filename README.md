@@ -1,2 +1,2 @@
 # Coding
-Consist of Coding questions that I practiced
+DSA questions in C++ language.
